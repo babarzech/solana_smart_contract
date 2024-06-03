@@ -1,1 +1,0 @@
-# solana_smart_contract
